@@ -1,0 +1,10 @@
+{
+  "name": "transduce",
+  "version": "0.0.1",
+  "description": "Playing around with Ramda's transduce",
+  "main": "index.js",
+  "author": "Jonathan Taylor",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}
