@@ -1,4 +1,3 @@
-
 const R = require('ramda')
 
 const inc = x => x + 1
