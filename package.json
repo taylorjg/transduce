@@ -4,6 +4,9 @@
   "description": "Playing around with Ramda's transduce",
   "main": "index.js",
   "author": "Jonathan Taylor",
+  "scripts": {
+    "test": "mocha"
+  },
   "dependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
